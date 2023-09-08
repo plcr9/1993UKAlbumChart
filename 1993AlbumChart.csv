@@ -1,0 +1,538 @@
+﻿AlbumID,Artist,Title,Label,Genre,ReleaseYear,EntryPosition,PeakPosition,WeeksAtNo1,WeeksInTop10,WeeksInTop20,WeeksInTop40,WeeksInTop75,WeeksInTop100,PeakHigherThanEntryPosition
+1,Cher,Greatest Hits 1965-1992,Geffen,Pop,1992,1,1,7,11,13,19,33,41,FALSE
+2,Erasure,Pop! The First 20 Hits,Mute,Pop,1992,1,1,2,8,11,17,26,27,FALSE
+3,Take That,Take That & Party,RCA,Pop,1992,5,2,0,13,33,46,73,82,TRUE
+4,Gloria Estefan,Greatest Hits,CBS,Pop,1992,6,2,0,11,14,21,46,54,TRUE
+5,Genesis,Live - The Way We Walk Vol.1: The Shorts,Virgin,Rock,1992,3,3,0,10,11,14,18,18,FALSE
+6,Simple Minds,Glittering Prize 81/92,Virgin,Rock,1992,1,1,3,13,16,21,39,47,FALSE
+7,Shamen,Boss Drum,One Little Indian,Electronica,1992,3,3,0,9,23,27,35,35,FALSE
+8,REM,Automatic For The People,Warner Brothers,Alternative,1992,1,1,4,46,71,108,180,245,FALSE
+9,Michael Jackson,Dangerous,MJJ/Epic,Pop,1991,1,1,1,24,48,76,99,102,FALSE
+10,Abba,Gold - Greatest Hits,Polydor,Pop,1992,1,1,8,78,219,478,835,1113,FALSE
+11,Simply Red,Stars,East West,Pop,1991,1,1,12,51,67,96,134,158,FALSE
+12,Michael Bolton,Timeless (The Classics),Columbia,Pop,1992,5,3,0,13,16,20,24,31,TRUE
+13,Lionel Richie,Back To Front,Motown,R&B,1992,1,1,6,24,34,51,82,130,FALSE
+14,Madonna,Erotica,Maverick/Sire,Pop,1992,2,2,0,5,13,19,38,39,FALSE
+15,Freddie Mercury,The Freddie Mercury Album,Parlophone,Rock,1992,4,4,0,6,12,18,25,25,FALSE
+16,Arrested Development,3 Years 5 Months And 2 Years In The Life Of…,Cooltempo,Hip Hop,1992,37,3,0,10,18,30,34,34,TRUE
+17,Belinda Carlisle,The Best Of Belinda Carlisle Vol.1,Virgin,Pop,1992,2,1,1,8,17,20,35,37,TRUE
+18,Nirvana,Nevermind,DGC,Alternative,1991,36,5,0,7,27,111,253,435,TRUE
+19,Charles & Eddie,Duophonic,Capitol,Pop,1992,20,19,0,0,2,10,15,15,TRUE
+20,Nirvana,Incesticide,DGC,Alternative,1992,17,14,0,0,4,7,11,11,TRUE
+21,Shakespear's Sister,Hormonally Yours,London,Pop,1992,3,3,0,8,19,39,55,55,FALSE
+22,Annie Lennox,Diva,RCA,Pop,1992,1,1,2,24,46,65,81,91,FALSE
+23,Bon Jovi,Keep The Faith,Mercury,Rock,1992,1,1,1,6,24,40,70,78,FALSE
+24,Enya,The Celts,WEA,New Age,1992,10,10,0,2,4,12,19,25,FALSE
+25,Queen,Greatest Hits II,Parlophone,Rock,1991,1,1,5,18,24,59,114,164,FALSE
+26,Boyz II Men,Cooleyhighharmony,Motown,R&B,1992,12,7,0,1,4,11,18,18,TRUE
+27,U2,Achtung Baby!,Island,Rock,1991,2,2,0,5,19,54,89,93,FALSE
+28,Curtis Stigers,Curtis Stigers,Arista,Pop,1992,7,7,0,2,19,39,50,50,FALSE
+29,Mike Oldfield,Tubular Bells II,WEA,New Age,1992,1,1,2,8,12,19,30,30,FALSE
+30,Eric Clapton,Unplugged,Duck,Rock,1992,6,2,0,11,30,52,90,101,TRUE
+31,Chris Rea,God's Great Banana Skin,East West,Rock,1992,4,4,0,2,7,12,15,15,FALSE
+32,Prince & The New Power Generation,Symbol,Paisley Park,Alternative,1992,1,1,1,3,4,10,21,21,FALSE
+33,Queen,Greatest Hits,Parlophone,Rock,1981,2,1,4,56,190,385,795,1065,TRUE
+34,Prodigy,Experience,XL,Electronica,1992,12,12,0,0,2,12,31,52,FALSE
+35,Talking Heads,Once In A Lifetime/Sand In The Vaseline,EMI,Alternative,1992,7,7,0,2,3,10,16,16,FALSE
+36,Right Said Fred,Up,Tug,Pop,1992,3,1,1,12,22,36,49,49,TRUE
+37,Tina Turner,Simply The Best,Parlophone,Pop,1991,3,2,0,23,34,62,142,183,TRUE
+38,Diana Ross,The Force Behind The Power,EMI,R&B,1991,14,11,0,0,7,19,31,31,TRUE
+39,Guns N Roses,Use Your Illusion II,Geffen,Alternative,1991,1,1,1,4,14,33,84,86,FALSE
+40,Bob Marley & The Wailers,Legend,Tuff Gong,Reggae,1984,1,1,12,33,92,311,848,1097,FALSE
+41,INXS,Welcome To Wherever You Are,Mercury,Rock,1992,1,1,1,3,8,17,33,33,FALSE
+42,Pearl Jam,Ten,Epic,Alternative,1992,18,18,0,0,1,9,70,98,FALSE
+43,Commitments,Commitments (OST),MCA,R&B,1991,9,4,0,8,33,51,100,100,TRUE
+44,Lemonheads,It's A Shame About Ray,Atlantic,Alternative,1992,69,33,0,0,0,6,17,19,TRUE
+45,Neil Diamond,The Greatest Hits 1966-1992,Columbia,Rock,1992,3,1,3,11,16,21,30,30,TRUE
+46,Undercover,Check Out The Groove,PWL,Pop,1992,26,26,0,0,0,2,9,9,FALSE
+47,Elaine Paige & Barbara Dickson,The Best Of Elaine Paige & Barbara Dickson,Telstar,Easy Listening,1992,61,22,0,0,0,5,9,9,TRUE
+48,Guns N Roses,Use Your Illusion I,Geffen,Alternative,1991,2,2,0,3,7,35,84,85,FALSE
+49,Tasmin Archer,Great Expectations,EMI,Pop,1992,8,8,0,1,6,18,42,42,FALSE
+50,REM,Out Of Time,Warner Brothers,Alternative,1991,1,1,1,27,39,63,137,137,FALSE
+51,Jimi Hendrix,The Ultimate Experience,Polygram,Alternative,1992,30,25,0,0,0,8,25,31,TRUE
+52,Police,Greatest Hits,Polydor,Rock,1992,10,10,0,1,5,9,22,37,FALSE
+53,Madness,Divine Madness,Virgin,Pop,1992,2,1,3,12,20,41,96,113,TRUE
+54,Roxette,Tourism,EMI,Pop,1992,2,2,0,3,5,8,17,17,FALSE
+55,Eurythmics,Greatest Hits,RCA,Pop,1991,1,1,10,21,32,58,123,140,FALSE
+56,Peter Gabriel,Us,Virgin,Rock,1992,2,2,0,3,6,15,29,29,FALSE
+57,Guns N Roses,Appetite For Destruction,Geffen,Alternative,1987,68,5,0,16,30,52,186,286,TRUE
+58,Genesis,We Can't Dance,Virgin,Rock,1991,1,1,2,21,34,49,61,61,FALSE
+59,Daniel O'Donnell,Follow Your Dream,Ritz,Easy Listening,1992,17,17,0,0,3,7,9,9,FALSE
+60,Brian May,Back To The Light,Parlophone,Rock,1992,6,6,0,2,3,5,14,14,FALSE
+61,Metallica,Metallica,Vertigo,Alternative,1991,1,1,1,3,4,11,82,107,FALSE
+62,Smiths,Best II,WEA,Alternative,1992,29,29,0,0,0,2,5,5,FALSE
+63,Michael Crawford & The Royal Philharmonic Orchestra,Michael Crawford Performs Andrew Lloyd Webber,Telstar,Easy Listening,1991,62,3,0,8,14,27,36,36,TRUE
+64,Neil Young,Harvest Moon,Reprise,Rock,1992,9,9,0,1,2,3,18,18,FALSE
+65,Extreme,III Sides To Every Story,A&M,Alternative,1992,2,2,0,2,4,7,11,11,FALSE
+66,Crowded House,Woodface,Capitol,Rock,1992,34,6,0,3,8,29,86,93,TRUE
+67,Ed Starink,Synthesizer Gold,Arcade,Electronica,1992,67,29,0,0,0,3,6,6,TRUE
+68,Enya,Shepherd Moons,WEA,New Age,1991,1,1,1,7,19,34,89,110,FALSE
+69,Madness,Madstock!,Virgin,Pop,1992,22,22,0,0,0,2,9,9,FALSE
+70,Huey Lewis & The News,The Heart Of Rock & Roll: The Best Of,Chrysalis,Rock,1992,23,23,0,0,0,3,8,8,FALSE
+71,Faith No More,Angel Dust,Slash,Alternative,1992,2,2,0,2,3,15,25,25,FALSE
+72,AC/DC,Live,Atco,Alternative,1992,5,5,0,1,1,3,7,7,FALSE
+73,Lisa Stansfield,Real Love,Arista,Pop,1991,4,3,0,19,32,39,51,52,TRUE
+74,Red Hot Chili Peppers,Blood Sugar Sex Magik,Warner Brothers,Alternative,1991,25,25,0,0,0,4,86,121,FALSE
+75,Madonna,The Immaculate Collection,Maverick/Sire,Pop,1990,1,1,9,28,43,77,243,363,FALSE
+76,Carpenters,Only Yesterday,A&M,Pop,1990,5,1,7,13,27,46,73,73,TRUE
+77,Wedding Present,Hit Parade 2,RCA,Rock,1993,19,19,0,0,1,1,2,2,FALSE
+78,Barrington Pheloung/J Kelly,Inspector Morse Vol.3,Virgin,Soundtrack,1993,36,20,0,0,1,6,11,11,TRUE
+79,Elvis Presley,From The Heart - His Greatest Love Songs,RCA,Pop,1992,4,4,0,4,7,9,18,18,FALSE
+80,KD Lang,Ingenue,Sire,Alternative,1992,28,3,0,4,14,23,52,54,TRUE
+81,Dire Straits,On Every Street,Vertigo,Rock,1991,1,1,1,5,10,18,36,36,FALSE
+82,En Vogue,Funky Divas,East West,R&B,1992,59,4,0,3,7,16,29,30,TRUE
+83,Genesis,Live - The Way We Walk Vol.2: The Longs,Virgin,Rock,1993,1,1,2,3,5,7,9,9,FALSE
+84,Stereo MCs,Connected,4th & Broadway,Alternative,1992,43,2,0,9,20,37,52,57,TRUE
+85,Cathy Dennis,Into The Skyline,Polydor,Pop,1993,8,8,0,1,2,3,4,4,FALSE
+86,Manfred Mann,Ages Of Mann,Polygram,Pop,1993,23,23,0,0,0,2,4,4,FALSE
+87,Sugar,Copper Blue,Creation,Alternative,1992,10,10,0,1,1,3,11,11,FALSE
+88,Elvis Presley,Presley - The All Time Greatest Hits,RCA,Pop,1987,4,4,0,4,5,9,14,22,FALSE
+89,Go West,Indian Summer,Chrysalis,Pop,1992,17,13,0,0,4,7,16,16,TRUE
+90,Alice In Chains,Dirt,Columbia,Alternative,1992,53,42,0,0,0,0,13,13,TRUE
+91,Neil Young,Lucky Thirteen,Geffen,Rock,1993,69,69,0,0,0,0,1,1,FALSE
+92,David Zinman,Gorecki Symphony No.3,Elektra,Classical,1993,71,6,0,3,5,11,18,18,TRUE
+93,Dina Carroll,So Close,A&M,Pop,1993,2,2,0,30,47,56,63,70,FALSE
+94,BM Ex,Appolonia,Union City,Electronica,1993,17,17,0,0,1,1,2,2,FALSE
+95,Elvis Costello & Brodsky Quartet,The Juliet Letters,Warner Brothers,Rock,1993,18,18,0,0,1,2,3,3,FALSE
+96,Harry Connick Jr,25,Columbia,Easy Listening,1993,35,35,0,0,0,1,2,2,FALSE
+97,Fish,Songs From The Mirror,Polydor,Alternative,1993,46,46,0,0,0,0,2,2,FALSE
+98,Ian McNabb,Truth And Beauty,This Way Up,Alternative,1993,51,51,0,0,0,0,1,1,FALSE
+99,Def Leppard,Adrenalize,Bludgeon Riffola,Rock,1992,1,1,1,4,7,16,30,30,FALSE
+100,Del Amitri,Change Everything,A&M,Rock,1992,2,2,0,2,6,9,20,20,FALSE
+101,Prefab Sprout,Life Of Surprises/Steve McQuee,Kitchenware,Rock,1992,3,3,0,4,5,10,13,13,FALSE
+102,Little Angels,Jam,Polydor,Alternative,1993,1,1,1,1,2,3,5,5,FALSE
+103,The The,Dusk,Epic,Rock,1993,2,2,0,1,2,3,4,4,FALSE
+104,Jesus Jones,Perverse,Food,Alternative,1993,6,6,0,1,1,2,4,4,FALSE
+105,Apache Indian,No Reservations,Island,Alternative,1993,36,36,0,0,0,1,2,2,FALSE
+106,Jimmy Nail,Growing Up In Public,East West,Rock,1992,2,2,0,4,5,8,12,12,FALSE
+107,Cult,Pure Cult,Beggars Banquet,Rock,1993,1,1,1,3,3,6,8,8,FALSE
+108,Belly,Star,4AD,Alternative,1993,2,2,0,1,2,4,10,10,FALSE
+109,Paul McCartney,Off The Ground,Parlophone,Pop,1993,5,5,0,1,2,2,4,4,FALSE
+110,Snap!,The Madman's Return,Logic/Arista,Electronica,1992,46,8,0,1,3,9,15,15,TRUE
+111,808 State,Gorgeous,ZTT,Electronica,1993,17,17,0,0,1,1,3,3,FALSE
+112,Sultans Of Ping FC,Casual Sex In The Cineplex,Rhythm King,Alternative,1993,26,26,0,0,0,1,2,2,FALSE
+113,Sunscreem,03,Sony Soho Square,Alternative,1993,33,33,0,0,0,1,5,5,FALSE
+114,Rage Against The Machine,Rage Against The Machine,Epic,Alternative,1993,52,17,0,0,4,26,44,72,TRUE
+115,Gerry Rafferty,On A Wing & A Prayer,A&M,Pop,1993,73,73,0,0,0,0,1,1,FALSE
+116,Buddy Holly & The Crickets,Words Of Love,Polygram,Rock,1993,1,1,1,3,4,7,9,9,FALSE
+117,Beloved,Conscience,East West,Electronica,1993,2,2,0,1,2,5,12,12,FALSE
+118,Dinosaur Jr,Where You Been,Blanco Y Negro,R&B,1993,10,10,0,1,1,2,3,3,FALSE
+119,Mick Jagger,Wandering Spirit,Atlantic,Rock,1993,12,12,0,0,1,3,4,4,FALSE
+120,Alexander O'Neal,Love Makes No Sense,Tabu,R&B,1993,14,14,0,0,1,2,4,4,FALSE
+121,Sister Sledge,The Very Best Of Sister Sledge,Atlantic,Electronica,1993,44,19,0,0,1,3,5,5,TRUE
+122,God Machine,Scenes For The Second Story,Fiction,Alternative,1993,55,55,0,0,0,0,1,1,FALSE
+123,Jon Secada,Jon Secada,SBK,Pop,1992,20,20,0,0,1,3,11,11,FALSE
+124,East 17,Walthamstow,London,Pop,1993,1,1,1,3,11,25,33,33,FALSE
+125,Duran Duran,Duran Duran (The Wedding Album),Parlophone,Rock,1993,4,4,0,4,8,15,23,23,FALSE
+126,T'Pau,Heart And Soul: The Very Best Of T'Pau,Virgin,Pop,1993,35,35,0,0,0,1,2,2,FALSE
+127,Rod Stewart,The Best Of Rod Stewart,Mercury,Rock,1977,26,3,0,11,22,45,105,105,TRUE
+128,Meat Loaf,Bat Ouf Of Hell,Epic,Rock,1978,60,3,0,5,61,253,462,530,TRUE
+129,Rod Stewart,Lead Vocalist,Warner Brothers,Rock,1993,3,3,0,2,4,6,9,9,FALSE
+130,Saint Etienne,So Tough,Heavenly,Electronica,1993,7,7,0,1,1,3,7,7,FALSE
+131,Midge Ure & Ultravox,If I Was - The Very Best Of,Chrysalis,Rock,1993,10,10,0,1,2,4,6,6,FALSE
+132,Living Colour,Stain,Epic,Alternative,1993,19,19,0,0,1,2,3,3,FALSE
+133,Poison,Native Tongue,Capitol,Alternative,1993,20,20,0,0,1,2,3,3,FALSE
+134,Van Halen,Live - Right Here Right Now,Warner Brothers,Rock,1993,24,24,0,0,0,1,4,4,FALSE
+135,Radiohead,Pablo Honey,XL,Alternative,1993,25,22,0,0,0,16,82,114,TRUE
+136,Leo Sayer,All The Best,Chrysalis,Pop,1993,27,26,0,0,0,3,4,4,TRUE
+137,Auteurs,New Wave,Hut,Rock,1993,35,35,0,0,0,1,2,2,FALSE
+138,Naughty By Nature,19 Naughty III,Big Life,Hip Hop,1993,40,40,0,0,0,1,2,2,FALSE
+139,Pop Will Eat Itself,Weird's Bar And Grills,RCA,Alternative,1993,44,44,0,0,0,0,1,1,FALSE
+140,M People,Northern Soul,Deconstruction,Electronica,1993,53,26,0,0,0,1,5,13,TRUE
+141,Eric Clapton,Time Pieces - The Best Of Eric Clapton,RSO,Rock,1982,47,20,0,0,2,4,10,14,TRUE
+142,Lulu,Independence,Dome,Pop,1993,67,67,0,0,0,0,1,1,FALSE
+143,Lenny Kravitz,Are You Gonna Go My Way,Virgin,Rock,1993,1,1,2,5,18,33,47,50,FALSE
+144,Sting,Ten Summoner's Tales,A&M,Rock,1993,2,2,0,15,36,47,60,71,FALSE
+145,Deacon Blue,"Whatever You Say, Say Nothing",Columbia,Pop,1993,4,4,0,1,3,7,10,10,FALSE
+146,Elkie Brooks,Round Midnight,Castle Communications,Pop,1993,27,27,0,0,0,3,4,4,FALSE
+147,Buddy Guy,Feels Like Rain,Silvertone,Alternative,1993,36,36,0,0,0,2,4,4,FALSE
+148,Senseless Things,Empire Of The Senseless,Epic,Rock,1993,37,37,0,0,0,1,1,1,FALSE
+149,Ray Charles,Ray Charles: The Living Legend,Arcade,R&B,1993,48,48,0,0,0,0,3,3,FALSE
+150,Candy Dulfer,Sax A Gogo,Ariola,Instrumental,1993,56,56,0,0,0,0,2,2,FALSE
+151,Cranberries,"Everybody Else Is Doing It, So Why Can't We?",Island,Alternative,1993,64,1,1,16,24,38,86,95,TRUE
+152,Lenny Kravitz,Mama Said,Virgin,Rock,1991,8,8,0,1,6,19,27,28,FALSE
+153,Gallon Drunk,From The Heart Of Town,Clawfist,Alternative,1993,67,67,0,0,0,0,1,1,FALSE
+154,Adorable,Against Perfection,Creation,Alternative,1993,70,70,0,0,0,0,1,1,FALSE
+155,Meat Loaf,Hits Out Of Hell,Epic,Rock,1993,7,2,0,11,13,23,75,99,TRUE
+156,Pink Floyd,The Dark Side Of The Moon,Harvest,Alternative,1973,2,2,0,43,124,216,394,560,FALSE
+157,Hothouse Flowers,Songs From The Rain,London,Rock,1993,7,7,0,1,2,3,11,11,FALSE
+158,Frank Black,Frank Black,4AD,Alternative,1993,9,9,0,1,1,2,3,3,FALSE
+159,Nanci Griffith,Other Voices Other Rooms,MCA,Country,1993,18,18,0,0,1,3,6,6,FALSE
+160,Hot Chocolate,Their Greatest Hits,EMI,Electronica,1993,20,1,1,6,20,33,42,49,TRUE
+161,Glenn Miller,The Ultimate Glenn Miller,Bluebird,Jazz,1993,22,11,0,0,1,4,6,6,TRUE
+162,System 7,777,Wau,Electronica,1993,30,30,0,0,0,1,2,2,FALSE
+163,Heaven 17,Higher And Higher: The Best Of Heaven 17,Virgin,Pop,1993,31,31,0,0,0,1,2,2,FALSE
+164,Bon Jovi,Slippery When Wet,Vertigo,Rock,1986,8,6,0,10,23,44,109,141,TRUE
+165,Wendy James,Now Ain't The Time For Your Tears,MCA,Alternative,1993,43,43,0,0,0,0,1,1,FALSE
+166,Mary J Blige,What's The 411,MCA,R&B,1993,53,53,0,0,0,0,1,1,FALSE
+167,Ugly Kid Joe,America's Least Wanted,Vertigo,Alternative,1992,11,11,0,0,1,10,24,24,FALSE
+168,Eagles,The Best Of,Asylum,Rock,1985,16,8,0,5,12,20,55,65,TRUE
+169,Spin Doctors,Pocket Full Of Kryptonite,Epic,Alternative,1993,61,2,0,19,28,39,57,63,TRUE
+170,4 Of Us,Man Alive,Columbia,Electronica,1993,64,64,0,0,0,0,1,1,FALSE
+171,Runrig,Amazing Things,Chrysalis,Rock,1993,2,2,0,1,2,3,6,6,FALSE
+172,Coverdale Page,Coverdale Page,EMI,Rock,1993,4,4,0,1,3,5,8,8,FALSE
+173,Randy Crawford,The Very Best Of Randy Crawford,Dino,Pop,1993,10,8,0,3,6,11,13,14,TRUE
+174,Boney M,The Greatest Hits,Telstar,Pop,1993,23,14,0,0,3,9,10,10,TRUE
+175,Quireboys,Bitter Sweet And Twisted,Parlophone,Alternative,1993,31,31,0,0,0,1,2,2,FALSE
+176,American Music Club,Mercury,Virgin,Alternative,1993,41,41,0,0,0,0,2,2,FALSE
+177,Simply Red,A New Flame,WEA,Pop,1989,1,1,7,26,39,58,90,91,FALSE
+178,Enya,Watermark,WEA,New Age,1988,46,5,0,11,20,41,92,99,TRUE
+179,Simply Red,Picture Book,Elektra,Pop,1985,34,2,0,19,28,50,109,137,TRUE
+180,Depeche Mode,So;ngs Of Faith And Devotion,Mute,Alternative,1993,1,1,1,2,4,9,16,18,FALSE
+181,Bryan Ferry,Taxi,Virgin,Rock,1993,2,2,0,1,2,8,14,14,FALSE
+182,Iron Maiden,A Real Live One,EMI,Alternative,1993,3,3,0,1,2,3,4,4,FALSE
+183,PM Dawn,The Bilss Album?,Gee Street,Alternative,1993,9,9,0,1,2,3,5,5,FALSE
+184,Ice T,Home Invasion,Rhyme Syndicate,Hip Hop,1993,15,15,0,0,1,2,7,7,FALSE
+185,Hollies,The Air That I Breathe The Best Of,EMI,Rock,1993,23,15,0,0,2,6,7,7,TRUE
+186,Big Country,The Buffalo Skinners,Compulsion,Rock,1993,25,25,0,0,0,1,2,2,FALSE
+187,Pavement,Westing By Musket And Sextant,,Alternative,1993,30,30,0,0,0,1,2,2,FALSE
+188,Barry Manilow,Hidden Treasures,Arista,Pop,1993,36,36,0,0,0,1,7,7,FALSE
+189,Therapy?,Nurse,A&M,Alternative,1992,38,38,0,0,0,1,3,3,FALSE
+190,Marxman,33 Revolutions Per Minute,Talkin' Loud,Hip Hop,1993,69,69,0,0,0,0,1,1,FALSE
+191,Butthole Surfers,Independent Worm Saloon,Capitol,Alternative,1993,73,73,0,0,0,0,1,1,FALSE
+192,Suede,Suede,Nude,Alternative,1993,1,1,1,4,5,11,16,16,FALSE
+193,David Essex,Cover Shot,Polygram,Pop,1993,6,3,0,5,5,7,8,8,TRUE
+194,New Model Army,The Love Of Hopeless Causes,Epic,Alternative,1993,22,22,0,0,0,1,2,2,FALSE
+195,Felix,Number 1,Deconstruction,Electronica,1993,26,26,0,0,0,1,4,4,FALSE
+196,Hue & Cry,Labours Of Love - The Best Of Hue & Cry,Circa,Pop,1993,27,27,0,0,0,2,4,4,FALSE
+197,Michael Ball & Barbara Bonney,West Side Story,IMG,Easy Listening,1993,35,33,0,0,0,2,5,5,TRUE
+198,Arrested Development,Unplugged,Cooltempo,Hip Hop,1993,40,40,0,0,0,1,3,3,FALSE
+199,London Cast,The New Starlight Express,Really Useful,Easy Listening,1993,42,42,0,0,0,0,2,2,FALSE
+200,Bananarama,Please Yourself,London,Pop,1993,46,46,0,0,0,0,1,1,FALSE
+201,Sheep On Drugs,Greatest Hits,Transglobal,Electronica,1993,55,55,0,0,0,0,1,1,FALSE
+202,Elaine Paige,Romance And The Stage,RCA,Easy Listening,1993,71,71,0,0,0,0,1,1,FALSE
+203,David Bowie,Black Tie White Noise,Arista,Alternative,1993,1,1,1,3,4,6,11,11,FALSE
+204,Sugar,Beaster,Creation,Alternative,1993,3,3,0,1,2,3,5,5,FALSE
+205,Almighty,Power Trippin',Polydor,Alternative,1993,5,5,0,1,1,3,4,4,FALSE
+206,WWF Superstars,Wrestlemania - The Album,Arista,Soundtrack,1993,23,10,0,1,1,4,5,5,TRUE
+207,Bluebells,The Singles Collection,London,Rock,1993,27,27,0,0,0,3,5,5,FALSE
+208,Dave Clark Five,Glad All Over Again,EMI,Rock,1993,35,28,0,0,0,3,5,5,TRUE
+209,Snow,12 Inches Of Snow,,Reggae,1993,45,41,0,0,0,0,4,4,TRUE
+210,James Galway,Essential Flute Of James Galway,RCA,Instrumental,1993,48,30,0,0,0,2,5,5,TRUE
+211,John Mayall,Wake Up Call,Silvertone,Alternative,1993,61,61,0,0,0,0,1,1,FALSE
+212,LL Cool J,14 Shots To The Dome,Def Jam,Hip Hop,1993,74,74,0,0,0,0,1,1,FALSE
+213,Bruce Springsteen,In Concert - MTV Plugged,,Rock,1993,4,0,0,1,4,6,7,7,TRUE
+214,Chris Isaak,San Francisco Days,Reprise,Alternative,1993,12,0,0,0,2,3,5,5,TRUE
+215,Connie Francis,The Singles Collection,Polygram,Pop,1993,15,12,0,0,2,3,5,5,TRUE
+216,Shabba Ranks,Xtra Naked,Epic,Reggae,1993,38,38,0,0,0,3,6,6,FALSE
+217,Diana Ross,Stolen Moments,EMI,R&B,1993,45,45,0,0,0,0,2,2,FALSE
+218,Cliff Richard,The Album,EMi,Pop,1993,1,1,1,3,4,12,15,15,FALSE
+219,Aerosmith,Get A Grip,Geffen,Alternative,1993,2,2,0,2,3,9,39,46,FALSE
+220,Ozric Tentacles,Jurassic Shift,Dovetail,Alternative,1993,11,11,0,0,1,3,4,4,FALSE
+221,Midnight Oil,Earth And Sun And Moon,Columbia,Alternative,1993,27,27,0,0,0,1,2,2,FALSE
+222,JTA with Noel McKoy,Supernatural Feeling,Big Life,Electronica,1993,36,36,0,0,0,1,3,3,FALSE
+223,World Party,Bang!,Ensign,Pop,1993,2,2,0,2,3,5,8,8,FALSE
+224,PJ Harvey,Rid Of Me,Island,Alternative,1993,3,3,0,1,2,3,4,4,FALSE
+225,Fall,Infotainment Scan,Permanent,Alternative,1993,9,9,0,1,1,2,3,3,FALSE
+226,Porno For Pyros,Porno For Pyros,Warner Brothers,Alternative,1993,13,13,0,0,1,2,3,3,FALSE
+227,Gary Clark,Ten Short Songs About Love,Circa,Rock,1993,25,25,0,0,0,1,2,2,FALSE
+228,Bruce Hornsby,Harbor Lights,RCA,Rock,1993,32,32,0,0,0,2,3,3,FALSE
+229,Judas Priest,Metal Works 73-93,Columbia,Alternative,1993,37,37,0,0,0,1,1,1,FALSE
+230,Cranes,Forever,Dedicated,Rock,1993,40,40,0,0,0,1,1,1,FALSE
+231,Vince Neil,The Singles Collection,Warner Brothers,Pop,1993,44,44,0,0,0,0,1,1,FALSE
+232,Primus,Pork Soda,Interscope,Alternative,1993,56,56,0,0,0,0,1,1,FALSE
+233,Sebadoh,Bubble And Scrape,Domino,Alternative,1993,63,63,0,0,0,0,1,1,FALSE
+234,New Order,Republic,London,Alternative,1993,1,1,1,3,4,14,19,19,FALSE
+235,Terence Trent D'Arby,Symphony Or Damn?,Columbia,R&B,1993,4,4,0,1,2,12,19,19,FALSE
+236,Clannad,Banba,RCA,Electronica,1993,5,5,0,2,4,9,11,11,FALSE
+237,Kenny G,Breathless,Arista,Instrumental,1993,10,4,0,4,8,17,27,40,TRUE
+238,Shadows,Shadows In The Night,Polygram,Pop,1993,22,22,0,0,0,3,4,4,FALSE
+239,Dogs D'Amour,…More Uncharted Heights Of Disgrace,China,Rock,1993,30,30,0,0,0,1,1,1,FALSE
+240,Inner City,Testament '93,10,Electronica,1993,33,33,0,0,0,1,2,2,FALSE
+241,Run DMC,Down With The King,Profile,Hip Hop,1993,44,44,0,0,0,0,2,2,FALSE
+242,Trash Can Sinatras,I've Seen Everything,Go! Discs,Alternative,1993,50,50,0,0,0,0,1,1,FALSE
+243,Miindfunk,Dropped,Megaforce,Alternative,1993,60,60,0,0,0,0,1,1,FALSE
+244,Eat Static,Abduction,Cherry Red,Electronica,1993,62,62,0,0,0,0,1,1,FALSE
+245,Brad,Shame,Epic,Alternative,1993,72,72,0,0,0,0,1,1,FALSE
+246,Sade,Love Deluxe,Epic,R&B,1992,10,10,0,1,1,15,27,27,FALSE
+247,Terrorvision,Formaldehyde,EMI,Alternative,1993,75,75,0,0,0,0,1,1,FALSE
+248,2 Unlimited,No Limits,PWL Continental,Electronica,1993,2,1,1,8,11,18,20,25,TRUE
+249,Dire Straits,On The Night,Vertigo,Rock,1993,4,4,0,2,3,5,7,8,FALSE
+250,Everything But The Girl,Home Movies - The Best Of,Blanco Y Negro,Pop,1993,5,5,0,2,3,5,8,8,FALSE
+251,Gary Moore,Blues Alive,Virgin,Rock,1993,8,8,0,1,2,3,5,5,FALSE
+252,Morrissey,Beethoven Was Deaf,HMV,Alternative,1993,13,13,0,0,1,1,2,2,FALSE
+253,Blur,Modern Life Is Rubbish,Food,Alternative,1993,15,15,0,0,1,4,14,19,FALSE
+254,Jim Diamond,Jim Diamond,Polygram,Rock,1993,20,16,0,0,2,3,5,5,TRUE
+255,Jellyfish,Spilt Milk,Charisma,Alternative,1993,21,21,0,0,0,1,2,2,FALSE
+256,Front 242,06.21.03.11 Up Evil,RRE,Electronica,1993,44,44,0,0,0,0,1,1,FALSE
+257,Leonard Cohen,The Future,Columbia,Rock,1993,36,36,0,0,0,1,3,3,FALSE
+258,U2,The Joshua Tree,Island,Rock,1987,1,1,2,29,41,67,169,201,FALSE
+259,Mega City Four,Magic Bullets,Big Life,Alternative,1993,57,57,0,0,0,0,1,1,FALSE
+260,Paul Simon,Graceland,CBS,Alternative,1993,4,1,8,38,46,73,114,163,TRUE
+261,Janet Jackson,Janet,Virgin,Pop,1993,1,1,2,5,13,34,57,65,FALSE
+262,Wet Wet Wet,Live At The Royal Albert Hall,Precious Organisation,Pop,1993,10,10,0,1,1,2,4,4,FALSE
+263,Anthrax,Sound Of White Noise,Elektra,Alternative,1993,14,14,0,0,1,2,3,3,FALSE
+264,Kingmaker,Sleepwalking,Scorch,Alternative,1993,15,15,0,0,1,1,7,7,FALSE
+265,Aztec Camera,Dreamland,WEA,Alternative,1993,21,21,0,0,0,1,2,2,FALSE
+266,Kiss,Alive III,Mercury,Rock,1993,24,24,0,0,0,1,2,2,FALSE
+267,Everly Brothers,Golden Years Of Their 24 Greatest Hits,Warner Brothers,Pop,1993,26,26,0,0,0,2,5,5,FALSE
+268,Sonia,Better The Devil You Know,Arista,Pop,1993,32,32,0,0,0,1,2,2,FALSE
+269,Jade,Jade To The Max,Giant,R&B,1993,43,43,0,0,0,0,3,3,FALSE
+270,Inner Circle,Bad To The Bone,Magnet,Reggae,1993,44,44,0,0,0,0,2,2,FALSE
+271,Guru,Jazzamatazz,Cooltempo,Jazz,1993,58,58,0,0,0,0,2,2,FALSE
+272,Pet Shop Boys,Discography,Parlophone,Pop,1991,3,3,0,2,9,18,30,45,FALSE
+273,Donald Fagen,Kamakiriad,Reprise,Jazz,1993,3,3,0,2,5,8,9,9,FALSE
+274,Waterboys,Dream Harder,Geffen,Rock,1993,5,5,0,2,3,7,10,10,FALSE
+275,Robert Plant,Fate Of Nations,Esparanza,Rock,1993,6,6,0,1,2,6,8,8,FALSE
+276,Rod Stewart,Unplugged And Seated,Warner Brothers,Rock,1993,7,2,0,13,14,16,27,31,TRUE
+277,Utah Saints,Utah Saints,FFRR,Electronica,1993,10,10,0,1,3,10,15,15,FALSE
+278,Jean-Michel Jarre,Chronologie,Polydor,Electronica,1993,11,11,0,0,1,4,8,8,FALSE
+279,Abba,More Abba Gold,Polydor,Pop,1993,14,13,0,0,6,15,27,44,TRUE
+280,Orbital,Orbital,FFRR,Electronica,1991,71,28,0,0,0,1,3,3,TRUE
+281,Howard Jones,The Best Of Howard Jones,East West,Pop,1993,36,36,0,0,0,2,2,2,FALSE
+282,Silencers,Seconds Of Pleasure,RCA,Rock,1993,52,52,0,0,0,0,1,1,FALSE
+283,Red House Painters,Red House Painters,4AD,Pop,1993,63,63,0,0,0,0,2,2,FALSE
+284,Dodgy,The Dodgy Album,A&M,Alternative,1993,75,75,0,0,0,0,1,1,FALSE
+285,Van Morrison,Too Long In Exile,Exile,Rock,1993,4,4,0,2,4,6,9,9,FALSE
+286,Luther Vandross,Never Let Me Go,Epic,R&B,1993,11,11,0,0,2,4,5,5,FALSE
+287,Sybil,Good N Ready,PWL,Pop,1993,13,13,0,0,2,5,6,6,FALSE
+288,Marc Cohn,The Rainy Season,Atlantic,Rock,1993,24,24,0,0,0,2,3,3,FALSE
+289,Maria McKee,You Gotta Sin To Get Saved,Geffen,Pop,1993,26,26,0,0,0,2,3,3,FALSE
+290,Harry Connick Jr,Forever For Now,Columbia,Easy Listening,1993,37,32,0,0,0,3,5,5,TRUE
+291,Mercury Rev,Boces,Beggars Banquet,Alternative,1993,43,43,0,0,0,0,1,1,FALSE
+292,Slowdive,Souvlaki,Creation,Alternative,1993,51,51,0,0,0,0,1,1,FALSE
+293,Van Morrison,The Best Of Van Morrison,Polydor,Rock,1993,4,4,0,3,5,13,34,34,FALSE
+294,Tina Turner,What's Love Got To Do With It,Parlophone,Pop,1993,1,1,1,6,13,26,33,33,FALSE
+295,Tears For Fears,Elemental,Mercury,Rock,1993,5,5,0,1,3,5,7,7,FALSE
+296,Ace Of Base,Happy Nation,London,Pop,1993,21,1,2,14,23,29,38,44,TRUE
+297,Fugazi,In On The Killtaker,Dischord,Alternative,1993,24,24,0,0,0,1,2,2,FALSE
+298,Johnny Gill,Provocative,Motown,R&B,1993,42,42,0,0,0,0,3,3,FALSE
+299,Gunshot,Patriot Games,Vinyl Solution,Hip Hop,1993,60,60,0,0,0,0,1,1,FALSE
+300,Fuse,Dimension Intrusion,Warp,Electronica,1993,63,63,0,0,0,0,1,1,FALSE
+301,The The,Burning Blue Soul,4AD,Rock,1993,65,65,0,0,0,0,1,1,FALSE
+302,Curve,Radio Sessions,Anxious,Rock,1993,72,72,0,0,0,0,1,1,FALSE
+303,UB40,The Best Of - Volume 1,DEP International,Reggae,1987,3,3,0,7,10,15,92,109,FALSE
+304,Jamiroquai,Emergency On Planet Earth,Sony Soho Square,Electronica,1993,1,1,3,10,13,17,26,26,FALSE
+305,Neil Young,Unplugged,Reprise,Rock,1993,4,4,0,3,5,8,13,14,FALSE
+306,Orchestral Manoeuvres In The Dark,Liberator,Virgin,Alternative,1993,14,14,0,0,1,2,6,6,FALSE
+307,Natalie Cole,Take A Look,Elektra,Pop,1993,16,16,0,0,1,2,4,4,FALSE
+308,A-Ha,Memorial Beach,Warner Brothers,Pop,1993,17,17,0,0,1,2,3,3,FALSE
+309,Mica Paris,Whisper A Prayer,4th & Broadway,R&B,1993,20,20,0,0,1,3,4,4,FALSE
+310,Frank Ricotti All Stars,The Beiderbecke Collection,Dormouse,Jazz,1993,73,73,0,0,0,0,1,1,FALSE
+311,Manic Street Preachers,Gold Against The Soul,Point Music,Alternative,1993,8,8,0,1,2,7,11,11,FALSE
+312,Paul Rodgers,Muddy Waters Blues,London,Rock,1993,9,9,0,1,2,4,7,7,FALSE
+313,Green Jelly,Cereal Killer Soundtrack,Zoo,Alternative,1993,19,18,0,0,2,5,10,10,TRUE
+314,Verve,A Storm In Heaven,Hut,Alternative,1993,27,27,0,0,0,1,2,3,FALSE
+315,House Of Love,Audience With The Wind,Fontana,Alternative,1993,38,38,0,0,0,1,1,1,FALSE
+316,Babes In Toyland,Painkiller,Southern,Alternative,1993,53,53,0,0,0,0,1,1,FALSE
+317,Mary Black,The Holy Ground,Grapevine,Rock,1993,58,58,0,0,0,0,2,2,FALSE
+318,Barbra Streisand,Back To Broadway,Columbia,Easy Listening,1993,4,4,0,3,7,13,17,18,FALSE
+319,Gloria Estefan,Mi Tierra,Epic,Pop,1993,11,11,0,0,3,9,11,11,FALSE
+320,Billy Idol,Cyberpunk,Chrysalis,Alternative,1993,20,20,0,0,1,2,2,2,FALSE
+321,Chaka Demus & Pliers,Tease Me,Mango,Reggae,1993,26,1,2,6,7,19,30,35,TRUE
+322,Tim Finn,Before And After,Capitol,Alternative,1993,29,29,0,0,0,1,2,2,FALSE
+323,Eric Clapton & Cream,The Cream Of Eric Clapton,Polydor,Rock,1987,9,3,0,6,12,29,91,104,TRUE
+324,Style Council,Here's Some That Got Away,Polydor,Alternative,1993,39,39,0,0,0,1,1,1,FALSE
+325,Speedy J,Ginger,Warp,Electronica,1993,68,68,0,0,0,0,1,1,FALSE
+326,Grant Lee Buffalo,Fuzzy,Slash,Alternative,1993,74,74,0,0,0,0,1,1,FALSE
+327,U2,Zooropa,Island,Rock,1993,1,1,1,9,11,18,31,44,FALSE
+328,Bjork,Debut,One Little Indian,Alternative,1993,3,3,0,12,32,45,69,79,FALSE
+329,Michael Ball,Always,Polydor,Easy Listening,1993,7,7,0,6,8,9,11,11,FALSE
+330,4 Non Blondes,"Bigger, Better, Faster, More!",Interscope,Alternative,1993,10,4,0,8,9,13,18,18,TRUE
+331,David Sylvian & Robert Fripp,The First Day,Virgin,Rock,1993,21,21,0,0,0,1,2,2,FALSE
+332,New Order,Substance 1987,London,Alternative,1993,3,3,0,4,6,9,23,39,FALSE
+333,SWV,It's About Time,RCA,R&B,1993,42,17,0,0,2,8,17,18,TRUE
+334,INXS,Kick,Mercury,Rock,1987,37,9,0,8,34,75,102,103,TRUE
+335,Black Crowes,Shake Your Money Maker,Def American,Alternative,1991,45,36,0,0,0,1,11,11,TRUE
+336,UB40,Promises And Lies,DEP International,Reggae,1993,1,1,7,11,22,31,37,39,FALSE
+337,Jesus & Mary Chain,The Sound Of Speed,Blanco Y Negro,Alternative,1993,15,15,0,0,1,2,3,3,FALSE
+338,Love/Hate,Let's Rumble,RCA,Alternative,1993,24,24,0,0,0,1,1,1,FALSE
+339,Levellers,Levelling The Land,China,Alternative,1991,14,14,0,0,1,6,30,38,FALSE
+340,Shaggy,Pure Pleasure,Greensleaves,Reggae,1993,67,67,0,0,0,0,1,1,FALSE
+341,Smashing Pumpkins,Siamese Dream,Hut,Alternative,1993,4,4,0,1,4,7,15,19,FALSE
+342,Debbie Harry,Debravation,Chrysalis,Alternative,1993,24,24,0,0,0,1,2,2,FALSE
+343,Joey Lawrence,Joey Lawrence,EMI,Pop,1993,39,39,0,0,0,2,3,3,FALSE
+344,Us3,Hand On The Torch,Blue Note,Jazz,1993,40,40,0,0,0,1,5,5,FALSE
+345,Barry White,The Collection,Universal,R&B,1988,19,5,0,6,26,62,119,128,TRUE
+346,INXS,X,Mercury,Rock,1990,2,2,0,3,13,30,44,44,FALSE
+347,John Williams,Jurassic Park,MCA,Soundtrack,1993,49,42,0,0,0,0,5,5,TRUE
+348,Bee Gees,The Very Best Of The Bee Gees,Warner Brothers,Pop,1990,12,8,0,4,14,25,38,38,TRUE
+349,Soul Asylum,Grave Dancer's Union,Columbia,Alternative,1993,54,27,0,0,0,4,25,28,TRUE
+350,Catherine Wheel,Chrome,Mercury,Alternative,1993,58,58,0,0,0,0,1,1,FALSE
+351,Diana Ross,Motown's Greatest Hits,Motown,R&B,1992,20,20,0,0,1,5,11,11,FALSE
+352,Joe Cocker,The Legend - The Essential Collection,Polygram,Rock,1992,4,4,0,7,10,13,20,20,FALSE
+353,Oleta Adams,Evolution,Fontana,Pop,1993,10,10,0,1,2,5,7,7,FALSE
+354,Cypress Hill,Black Sunday,Columbia,Hip Hop,1993,13,13,0,0,7,22,50,57,FALSE
+355,Vai,Sex And Religion,Relativity,Alternative,1993,17,17,0,0,1,3,6,6,FALSE
+356,Deep Purple,The Battle Rages On,RCA,Rock,1993,21,21,0,0,0,2,3,3,FALSE
+357,Oui 3,Oui Love You,MCA,Hip Hop,1993,39,39,0,0,0,2,3,3,FALSE
+358,Billy Joel,River Of Dreams,Columbia,Rock,1993,4,3,0,6,8,21,26,27,TRUE
+359,Juliana Hatfield Three,Become What You Are,Mammoth,Alternative,1993,44,44,0,0,0,0,2,2,FALSE
+360,Simon & Garfunkel,The Definitive Simon & Garfunkel,Columbia,Alternative,1991,20,8,0,3,12,33,57,73,TRUE
+361,BBC Cast,Doctor Who The Power Of The Daleks,BBC,Soundtrack,1993,71,71,0,0,0,0,1,1,FALSE
+362,James Brown,Sex Machine - The Very Best Of James Brown,Polydor,R&B,1991,19,19,0,0,1,3,22,22,FALSE
+363,U2,Rattle And Hum,Island,Rock,1988,1,1,1,4,10,33,61,65,FALSE
+364,U2,War,Island,Rock,1983,1,1,1,7,9,38,89,148,FALSE
+365,Cat Stevens,The Very Best Of Cat Stevens,Island,Rock,1990,4,4,0,7,12,22,43,61,FALSE
+366,Pharcyde,Bizarre Ride II The Pharcyde,Atlantic,Hip Hop,1993,58,58,0,0,0,0,1,1,FALSE
+367,Michael Ball,Michael Ball,Polydor,Easy Listening,1992,1,1,1,3,4,6,10,10,FALSE
+368,Adam Ant,Antmusic - The Very Best Of Adam Ant,Arcade,Pop,1993,7,6,0,3,4,8,11,11,TRUE
+369,Boo Radleys,Giant Step,Creation,Alternative,1993,17,17,0,0,1,2,4,5,FALSE
+370,U2,The Unforgettable Fire,Island,Rock,1984,1,1,2,8,20,46,104,132,FALSE
+371,Levellers,Levellers,China,Alternative,1993,2,2,0,3,4,8,14,15,FALSE
+372,Sisters Of Mercy,Greatest Hits Vol.1,Merciful Release,Alternative,1993,14,14,0,0,3,4,5,5,FALSE
+373,Luciano Pavarotti,Ti Amo - Puccini's Greatest Love Songs,Decca,Opera,1993,23,23,0,0,0,3,4,4,FALSE
+374,Robin S,Show Me Love,Champion,Electronica,1993,34,34,0,0,0,1,3,3,FALSE
+375,Front 242,05.22.09.12 Off,RRE,Electronica,1993,46,46,0,0,0,0,1,1,FALSE
+376,Ultramarine,United Kingdoms,Blanco Y Negro,Alternative,1993,49,49,0,0,0,0,1,1,FALSE
+377,Onyx,Bacdafucup,Columbia,Hip Hop,1993,59,59,0,0,0,0,3,3,FALSE
+378,Stone Temple Pilots,Core,Atlantic,Alternative,1993,72,27,0,0,0,4,8,8,TRUE
+379,Mariah Carey,Music Box,Columbia,Pop,1993,1,1,6,37,58,72,77,78,FALSE
+380,Breeders,Last Splash,4AD,Alternative,1993,5,5,0,1,2,3,5,5,FALSE
+381,London Cast,Sunset Boulevard,Really Useful,Easy Listening,1993,11,11,0,0,1,2,4,4,FALSE
+382,Pogues,Waiting For Herb,PM,Alternative,1993,20,20,0,0,1,2,3,3,FALSE
+383,Jason Donovan,All Around The World,Polydor,Pop,1993,27,27,0,0,0,1,2,2,FALSE
+384,Wildhearts,Earth Vs The Wildhearts,Rhino,Alternative,1993,46,46,0,0,0,0,1,1,FALSE
+385,Otis Redding,The Dock Of The Bay - The Definitive Collection,Atlantic,R&B,1993,50,44,0,0,0,0,17,27,TRUE
+386,Bon Jovi,New Jersey,Vertigo,Rock,1988,1,1,2,3,4,11,48,54,FALSE
+387,John Hiatt,Perfectly Good Guitar,A&M,Rock,1993,67,67,0,0,0,0,1,1,FALSE
+388,Meat Loaf,Bat Out Of Hell II - Back Into Hell,Virgin,Rock,1993,1,1,11,23,29,36,60,68,FALSE
+389,Paul Weller,Wild Wood,Go! Discs,Alternative,1993,2,2,0,3,5,10,51,86,FALSE
+390,Carter USM,Post Historic Monsters,Chrysalis,Alternative,1993,5,5,0,1,2,3,4,4,FALSE
+391,Kinks,The Definitive Collection,Polygram,Rock,1993,18,18,0,0,1,3,4,4,FALSE
+392,Back To The Planet,Mind And Soul Collaborations,Parallel,Electronica,1993,32,32,0,0,0,1,2,2,FALSE
+393,John Mellencamp,Human Wheels,Mercury,Country,1993,37,37,0,0,0,1,2,2,FALSE
+394,Aimee Mann,Whatever,Imago,Alternative,1993,39,39,0,0,0,1,1,1,FALSE
+395,BBC Cast,Doctor Who The Paradise Of Death,BBC,Soundtrack,1993,48,48,0,0,0,0,1,1,FALSE
+396,Stereolab,Transient Random Noise Bursts,Duophonic Ultra High Frequency,Electronica,1993,62,62,0,0,0,0,1,1,FALSE
+397,Nick Cave & The Bad Seeds,Live Seeds,Mute,Alternative,1993,67,67,0,0,0,0,1,1,FALSE
+398,Nirvana,In Utero,DGC,Alternative,1993,1,1,1,3,4,9,44,61,FALSE
+399,Prince,The Hits/The B-Sides,Paisley Park,Alternative,1993,4,4,0,1,5,10,16,18,FALSE
+400,Prince,The Hits 1,Paisley Park,Alternative,1993,5,5,0,4,8,23,34,36,FALSE
+401,Prince,The Hits 2,Paisley Park,Alternative,1993,6,5,0,5,8,23,29,32,TRUE
+402,Mike Oldfield,Elements - The Best Of Mike Oldfield,Virgin,New Age,1993,9,5,0,3,4,6,10,10,TRUE
+403,Kenny Thomas,Wait For Me,Cooltempo,Pop,1993,10,10,0,1,2,3,5,5,FALSE
+404,Kim Wilde,The Singles Collection 1981-1993,MCA,Pop,1993,11,11,0,0,4,5,7,7,FALSE
+405,Curve,Cuckoo,Anxious,Alternative,1993,23,23,0,0,0,1,2,2,FALSE
+406,Kenny Rogers,Daytime Friends - The Very Best Of,EMI,Country,1993,24,16,0,0,1,4,5,6,TRUE
+407,Squeeze,Some Fantastic Place,A&M,Rock,1993,26,26,0,0,0,2,4,4,FALSE
+408,Cure,Show,Fiction,Alternative,1993,29,29,0,0,0,1,2,2,FALSE
+409,One Dove,Morning Dove White,London,Electronica,1993,30,30,0,0,0,1,2,2,FALSE
+410,Bee Gees,Size Isn't Everything,Polydor,Pop,1993,33,23,0,0,0,11,13,14,TRUE
+411,Capercaillie,Secret People,Arista,Electronica,1993,40,40,0,0,0,1,3,3,FALSE
+412,Iggy Pop,American Caesar,Virgin,Alternative,1993,43,43,0,0,0,0,1,1,FALSE
+413,Dead Can Dance,Into The Labyrinth,4AD,Classical,1993,47,47,0,0,0,0,1,1,FALSE
+414,Scorpions,Face The Heat,Mercury,Rock,1993,51,51,0,0,0,0,1,1,FALSE
+415,Undertones,Teenage Kicks,Castle Communications,Alternative,1993,53,45,0,0,0,0,3,3,TRUE
+416,Culture Beat,Serenity,Dance Pool,Electronica,1993,56,13,0,0,2,6,10,13,TRUE
+417,Led Zeppelin,Remasters,Atlantic,Rock,1990,10,10,0,2,8,23,45,54,FALSE
+418,Suzy Bogguss,Something Up My Sleeve,Liberty,Country,1993,69,69,0,0,0,0,1,1,FALSE
+419,Beatles,The Beatles 1962-1966,Parlophone,Pop,1973,6,3,0,16,28,88,162,167,TRUE
+420,Beatles,The Beatles 1967-1970,Parlophone,Pop,1973,5,2,0,19,40,90,131,131,TRUE
+421,London Cast,Grease,Epic,Easy Listening,1993,20,20,0,0,1,2,3,3,FALSE
+422,Shara Nelson,What Silence Knows,Cooltempo,R&B,1993,22,22,0,0,0,5,9,11,FALSE
+423,Boy George/Jesus Loves You/Culture Club,At Worst The Best Of,Virgin,Pop,1993,30,24,0,0,0,4,5,5,TRUE
+424,Revolting Cocks,Linger Fickin' Good,Devotion,Alternative,1993,39,39,0,0,0,1,1,1,FALSE
+425,Mr. Big,Bump Ahead,Atlantic,Rock,1993,61,61,0,0,0,0,1,1,FALSE
+426,Cilla Black,Through The Years,Columbia,Pop,1993,62,41,0,0,0,0,1,1,TRUE
+427,Tony! Toni! Tone!,Sons Of Soul,Polydor,R&B,1993,66,66,0,0,0,0,1,1,FALSE
+428,Gary Numan,Best Of 1978=1983,Beggars Banquet,Electronica,1993,70,70,0,0,0,0,1,1,FALSE
+429,Pet Shop Boys,Very,Parlophone,Pop,1993,1,1,1,3,7,13,24,27,FALSE
+430,James,Laid,Fontana,Alternative,1993,3,3,0,1,1,4,16,16,FALSE
+431,Beverley Craven,Love Scenes,Epic,Pop,1993,4,4,0,2,3,4,13,13,FALSE
+432,Buffalo Tom,Big Red Letter Day,Beggars Banquet,Alternative,1993,17,17,0,0,1,2,3,3,FALSE
+433,Duff McKagan,Believe In Me,Geffen,Rock,1993,27,27,0,0,0,1,2,2,FALSE
+434,Neil Diamond,Up On The Roof - Songs From The Brill Building,Columbia,Rock,1993,28,28,0,0,0,2,10,10,FALSE
+435,De La Soul,Buhloone Mindstate,Big Life,Hip Hop,1993,37,37,0,0,0,1,2,2,FALSE
+436,Ronny Jordan,The Quiet Revolution,Island,Jazz,1993,49,49,0,0,0,0,2,2,FALSE
+437,Swervedriver,Mezcal Head,Creation,Alternative,1993,55,55,0,0,0,0,1,1,FALSE
+438,Led Zeppelin,Boxed Set II,Atlantic,Rock,1993,56,56,0,0,0,0,1,1,FALSE
+439,Rolling Stones,Hot Rocks 1964-1971,London,Rock,1990,8,3,0,7,9,13,18,18,TRUE
+440,Mazzy Star,So Tonight That I Might See,Capitol,Alternative,1993,68,68,0,0,0,0,1,1,FALSE
+441,M People,Elegant Slumming,Deconstruction,Electronica,1993,2,2,0,17,27,52,87,112,FALSE
+442,Wonder Stuff,Construction For The Modern Idiot,Polydor,Alternative,1993,4,4,0,1,2,3,5,5,FALSE
+443,Go West,Aces And Kings The Best Of Go West,Chrysalis,Pop,1993,5,5,0,3,5,10,15,15,FALSE
+444,Def Leppard,Retro Active,Bludgeon Riffola,Rock,1993,6,6,0,1,2,3,5,6,FALSE
+445,Teenage Fanclub,Thirteen,Creation,Alternative,1993,14,14,0,0,1,1,3,3,FALSE
+446,Robert Cray Band,Shame And A Sin,Mercury,Mercury,1993,48,48,0,0,0,0,1,1,FALSE
+447,Dannii Minogue,Get Into You,MCA,Pop,1993,52,52,0,0,0,0,1,1,FALSE
+448,Afghan Whigs,Gentleman,Blast First,Alternative,1993,58,58,0,0,0,0,1,1,FALSE
+449,Fleetwood Mac,Tango In The Night,Rhino,Rock,1987,7,1,5,38,60,81,112,123,TRUE
+450,Jose Carreras,With A Song In My Heart,Teldec,Opera,1993,73,73,0,0,0,0,1,1,FALSE
+451,Take That,Everything Changes,RCA,Pop,1993,1,1,2,15,36,51,78,88,FALSE
+452,Pearl Jam,VS,Epic,Alternative,1993,2,2,0,3,5,12,24,33,FALSE
+453,Crowded House,Together Alone,Capitol,Alternative,1993,4,4,0,3,6,21,32,33,FALSE
+454,Lemonheads,Come On Feel,Atlantic,Alternative,1993,5,5,0,1,3,5,14,14,FALSE
+455,Belinda Carlisle,Best Of Belinda Vol.1,Virgin,Pop,1993,9,9,0,1,2,3,5,5,FALSE
+456,Sepultura,Chaos Ad,Roadrunner,Alternative,1993,11,11,0,0,1,2,3,3,FALSE
+457,Haddaway,The Album,Logic/Arista,Electronica,1993,19,19,0,0,1,4,7,7,FALSE
+458,Paul Young,The Crossing,Columbia,Rock,1993,27,27,0,0,0,1,2,2,FALSE
+459,Sabres Of Paradise,Sabresonic,Warp,Electronica,1993,29,29,0,0,0,1,2,2,FALSE
+460,Lloyd Cole,Bad Vibes,Fontana,Alternative,1993,38,38,0,0,0,1,2,2,FALSE
+461,Fluke,Six Wheels On My Wagon,Circa,Electronica,1993,41,41,0,0,0,0,1,1,FALSE
+462,Tindersticks,Tindersticks,This Way Up,Rock,1993,56,56,0,0,0,0,1,1,FALSE
+463,Daryl Hall,Soul Alone,Epic,R&B,1993,57,57,0,0,0,0,1,1,FALSE
+464,Foster & Allen,By Request,Telstar,Pop,1993,66,14,0,0,4,10,12,12,TRUE
+465,Diana Ross,One Woman - The Ultimate Collection,EMI,R&B,1993,2,1,2,18,28,44,67,84,TRUE
+466,Frankie Goes To Hollywood,Bang: The Greatest Hits Of,ZTT,Pop,1993,4,4,0,2,4,13,15,15,FALSE
+467,Bette Midler,Experience: The Divine Bette Midler,Atlantic,Pop,1993,5,3,0,4,10,13,15,17,TRUE
+468,Gabrielle,Find Your Way,Go! Beat,Pop,1993,9,9,0,1,2,16,22,23,FALSE
+469,Iron Maiden,A Real Dead One,EMI,Alternative,1993,12,12,0,0,1,2,3,3,FALSE
+470,Cocteau Twins,Four-Calendar Café,Fontana,Alternative,1993,13,13,0,0,1,2,3,3,FALSE
+471,Rush,Counterparts,Atlantic,Alternative,1993,14,14,0,0,1,2,3,3,FALSE
+472,PJ Harvey,4-Track Demos,Island,Alternative,1993,19,19,0,0,1,1,2,2,FALSE
+473,D:Ream,D:Ream On Vol.1,Magnet,Pop,1993,44,5,0,5,8,23,37,44,TRUE
+474,Transglobal Underground,Dream Of 100 Nations,Nation,Electronica,1993,45,45,0,0,0,0,1,1,FALSE
+475,Josef Locke,Hear My Song - The Best Of,EMI,Classical,1992,67,7,0,3,6,10,17,17,TRUE
+476,Frank Sinatra,Duets,Capitol,Easy Listening,1993,5,5,0,2,9,12,14,15,FALSE
+477,Daniel O'Donnell,A Date With Daniel Live,Ritz,Easy Listening,1993,21,21,0,0,0,6,9,9,FALSE
+478,Jam,Live Jam,Polydor,Alternative,1993,28,28,0,0,0,1,2,4,FALSE
+479,Joe Satriani,Time Machine,Epic,Alternative,1993,32,32,0,0,0,1,2,2,FALSE
+480,Jackson Browne,I'm Alive,Elektra,Rock,1993,35,35,0,0,0,1,3,3,FALSE
+481,"10,000 Maniacs",Unplugged,Elektra,Rock,1993,40,40,0,0,0,1,2,2,FALSE
+482,Tom Petty & The Heartbreakers,Greatest Hits,MCA,Rock,1993,47,10,0,1,9,19,39,52,TRUE
+483,Incognito,Positivity,Talkin' Loud,Jazz,1993,55,55,0,0,0,0,2,2,FALSE
+484,Cure,Paris,Fiction,Alternative,1993,56,56,0,0,0,0,1,1,FALSE
+485,Christy Moore,King Puck,Equator,Rock,1993,66,66,0,0,0,0,2,2,FALSE
+486,Carcass,Heartwork,Earache,Alternative,1993,67,67,0,0,0,0,1,1,FALSE
+487,W.A.S.P.,First Blood…Last Cuts,Capitol,Alternative,1993,69,69,0,0,0,0,1,1,FALSE
+488,Pop Will Eat Itself,16 Different Flavours Of Hell,RCA,Alternative,1993,73,73,0,0,0,0,1,1,FALSE
+489,Hawkwind,It Is The Business Of The Future To Be Dangerous,Essential,Rock,1993,75,75,0,0,0,0,1,1,FALSE
+490,Kate Bush,Red Shoes,EMI,Alternative,1993,2,2,0,2,8,13,15,17,FALSE
+491,INXS,Full Moon Dirty Hearts,Mercury,Rock,1993,3,3,0,1,2,3,8,8,FALSE
+492,Chris Rea,Espresso Logic,East West,Rock,1993,8,8,0,1,3,7,10,10,FALSE
+493,Texas,Ricks Road,Vertigo,Rock,1993,18,18,0,0,1,1,2,2,FALSE
+494,Nanci Griffith,The Best Of Nanci Griffith,MCA,Country,1993,27,27,0,0,0,2,4,4,FALSE
+495,Right Said Fred,Sex And Travel,Tug,Pop,1993,35,35,0,0,0,1,4,4,FALSE
+496,KD Lang,Even Cowgirls Get The Blues,Sire,Alternative,1993,36,36,0,0,0,1,2,2,FALSE
+497,Michael Crawford,A Touch Of Music In The Night,Telstar,Easy Listening,1993,37,12,0,0,5,7,11,11,TRUE
+498,Carleen Anderson,Dusky Sapphio EP,Circa,R&B,1993,38,38,0,0,0,0,1,1,FALSE
+499,Horse,Gods Home Movie,Oxygen,Pop,1993,42,42,0,0,0,0,2,2,FALSE
+500,Joe Longthorne,I Wish You Love,EMI,Pop,1993,47,47,0,0,0,0,4,4,FALSE
+501,Velvet Underground,Live MCMXCIII,Sire,Rock,1993,70,70,0,0,0,0,1,1,FALSE
+502,Phil Collins,Both Sides,Virgin,Rock,1993,1,1,1,12,14,18,21,25,FALSE
+503,Bryan Adams,So Far So Good,A&M,Rock,1993,2,1,1,13,17,23,56,93,TRUE
+504,Wet Wet Wet,End Of Part One - Their Greatest Hits,Precious Organisation,Pop,1993,4,1,5,22,30,49,67,74,TRUE
+505,Lisa Stansfield,So Natural,Arista,Pop,1993,6,6,0,1,7,11,14,15,FALSE
+506,David Bowie,The Singles Collection,EMI,Alternative,1993,9,9,0,1,4,10,16,35,FALSE
+507,Christians,The Best Of The Christians,Island,Rock,1993,22,22,0,0,0,5,8,8,FALSE
+508,Iron Maiden,Live At Donnington,EMI,Alternative,1993,23,23,0,0,0,0,1,1,FALSE
+509,Hank Marvin,Heartbeat,Polygram,Rock,1993,27,17,0,0,1,7,9,9,TRUE
+510,James Last,James Last Plays Andrew Lloyd Webber,Polydor,Easy Listening,1993,32,12,0,0,3,7,10,10,TRUE
+511,Paul McCartney,Paul Is Live,Parlophone,Pop,1993,34,34,0,0,0,1,2,2,FALSE
+512,Bob Dylan,World Gone Wrong,Columbia,Rock,1993,35,35,0,0,0,1,2,2,FALSE
+513,Tom Waits,The Black Rider,Island,Alternative,1993,47,47,0,0,0,0,2,2,FALSE
+514,Steely Dan,Remastered - The Best Of Steely Dan,MCA,Pop,1993,49,42,0,0,0,0,5,5,TRUE
+515,Shamen,On Air,One Little Indian,Electronica,1993,61,61,0,0,0,0,1,1,FALSE
+516,Michael Bolton,The One Thing,Columbia,Pop,1993,4,4,0,6,11,17,24,29,FALSE
+517,Soul II Soul,Volume IV - The Classic Singles 88-93,Virgin,Electronica,1993,16,10,0,1,6,11,13,14,TRUE
+518,Eurythmics,Eurythmics Live 1983-1989,RCA,Pop,1993,22,22,0,0,0,3,7,7,FALSE
+519,Barry Manilow,The Platinum Collection,Arista,Pop,1993,38,37,0,0,0,2,6,6,TRUE
+520,Adam Faith,Midnight Postcards,Polygram,Pop,1993,43,43,0,0,0,0,2,2,FALSE
+521,Bill Tarmey,A Gift Of Love,EMI,Easy Listening,1993,47,15,0,0,1,4,14,14,TRUE
+522,Cyndi Lauper,Hat Full Of Stars,Epic,Pop,1993,56,56,0,0,0,0,1,1,FALSE
+523,R Kelly,12 Play,Jive,R&B,1993,69,20,0,0,3,7,44,61,TRUE
+524,A Tribe Called Quest,Midnight Marauders,Jive,Hip Hop,1993,70,70,0,0,0,0,1,1,FALSE
+525,Guns N Roses,The Spaghetti Incident,Geffen,Alternative,1993,2,2,0,2,5,9,10,13,FALSE
+526,Elton John,Duets,Rocket,Pop,1993,5,5,0,5,9,14,18,19,FALSE
+527,Rolling Stones,Jump Back - The Best Of 1971-1993,Virgin,Rock,1993,20,16,0,0,3,16,28,45,TRUE
+528,Orb,Live 93,Island,Electronica,1993,23,23,0,0,0,1,2,2,FALSE
+529,Shirley Bassey,Shirley Bassey Sings Andrew Lloyd Webber,Premier,Easy Listening,1993,56,34,0,0,0,1,5,5,TRUE
+530,Heart,Desire Walks On,Capitol,Rock,1993,32,32,0,0,0,1,2,2,FALSE
+531,Eternal,Always And Forever,1st Avenue/EMI,Pop,1993,33,2,0,24,38,63,76,80,TRUE
+532,Snoop Dogg,Doggystyle,Interscope,Hip Hop,1993,38,38,0,0,0,1,27,34,FALSE
+533,DJ Jazzy Jeff & The Fresh Prince,Code Red,Jive,Hip Hop,1993,50,50,0,0,0,0,6,6,FALSE
+534,Metallica,Live Shit - Binge And Purge,Vertigo,Alternative,1993,54,54,0,0,0,0,1,1,FALSE
+535,Ice Cube,Lethal Injection,4th & Broadway,Hip Hop,1993,52,52,0,0,0,0,1,1,FALSE
+536,Village People,The Best Of The Village People,Bell,Pop,1993,72,72,0,0,0,0,1,1,FALSE
+537,"Placido Domingo, Diana Ross & Jose Carreras",Christmas In Vienna,Sony Classical,Opera,1993,71,71,0,0,0,0,2,2,FALSE
