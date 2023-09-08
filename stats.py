@@ -24,3 +24,5 @@ limit = 1
 column_name = 'WeeksInTop10'
 count2 = np.count_nonzero(album[column_name] > limit)
 print(count2)
+
+
